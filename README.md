@@ -14,18 +14,16 @@
 </a>
 </div>
 
-<p align= "center">Hello there, I'm [Chunnyluny](https://github.com/Chunnyluny) and I'm the owner of this organisation!</p>
-
 <h2 align= "center">About the organisation</h2>
-<p align= "center">🙋‍♀️ What is this organisation about - this organisation will contain all RimWorld related modding resources, it will make everything easier for automation and consistency in my mod's repositories. The main reason for this is because I'm not able to post my RimWorld mods onto the SteamWorkshop.</p>
+<p align= "center">🙋‍♀️ This organisation will contain all RimWorld related mods I make and contribute to. Also I want to have a community-organisation where people can join as member to keep up-to-date.</p>
 
 <p align= "center">📧 Contact - see discord and slack buttons at the top.</p>
 
-<p align= "center">🌈 Contribution guidelines - use the issue templates when submitting issues. Don't forget to give them matching labels, you can also use the contribution/credit label if you want to be mentioned for your contribution. When you have marked your issue or pull request with the matching labels, we can then assign them accordingly and put them on the project board.</p>
+<p align= "center">🌈 Contribution guidelines - use the issue templates when submitting issues. Don't forget to give them matching labels, you can also use the contribution/credit label if you want to be mentioned for your contribution. When you have marked your issue or pull request with the matching labels, these will be put on one of the 3 project board.</p>
 
-<p align= "center">📚 Project board - I have set the project board for DogApparel public, so people can see what we are working on etc. When you have submit an issue, you can see when it is planned.</p>
+<p align= "center">📚 Project board - The project board are public to anyone with the intention that people can keep track of the progress, also when submit an issue you can see when it is planned. This also applies for DogApparel Trello and GitHub project board which are both public, so you can keep track on the progress of the mod. This way When you submit an issue, you can see when it is planned.</p>
 
-<p align= "center">👩‍💻 Useful resources - I have made templates so one can easier find a way to make our workflow easier to manage, see .github repository for default files and community health files. We are also open for discussions or submitting issues for mods that we have made.</p>
+<p align= "center">👩‍💻 Useful resources - There are templates for issues and feature request so people can follow this template, which will make the workflow easier to manage. See .github repository for default files and community health files. Discussions are hosted from out the DogApparel mod since it is the first mod and I have set it up to apply to other future mods.</p>
 
 <p align= "center">🏡 Discussions - The source repository will host the discussions. All discussions on the source repository will be surfaced to the organization Discussions tab. Permissions from the repository will be applied to the organization Discussions. By default, all members of the organization will be able to create and comment on discussions. Members can now share updates or ask questions to the entire organization.</p>
 
