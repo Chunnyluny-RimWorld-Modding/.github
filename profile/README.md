@@ -19,28 +19,11 @@
 
 <p align= "center">📧 Contact - see discord and slack buttons at the top.</p>
 
-<p align= "center">🌈 Contribution guidelines - use the issue templates when submitting issues. Don't forget to give them matching labels, you can also use the contribution/credit label if you want to be mentioned for your contribution. When you have marked your issue or pull request with the matching labels, these will be put on one of the 3 project board.</p>
+<p align= "center">🌈 Contribution guidelines - use the issue templates when submitting issues. Don't forget to tag them with matching labels, you can also use the contribution/credit label if you want to be mentioned for your contribution. When you have marked your issue or pull request with the matching labels, these will be put on one of the 3 project boards.</p>
 
-<p align= "center">📚 Project board - The project board are public to anyone with the intention that people can keep track of the progress, also when submit an issue you can see when it is planned. This also applies for DogApparel Trello and GitHub project board which are both public, so you can keep track on the progress of the mod. This way When you submit an issue, you can see when it is planned.</p>
+<p align= "center">📚 Project board - The project boards are public so people can see what will be worked on. For example when they submit an issue, you can see when it is planned. This includes the DogApparel Trello board and the DogApparel GitHub board, so you can stay up-to-date to the progress of the mod. This makes it easier for modusers to check when an issue is planned.</p>
 
-<p align= "center">👩‍💻 Useful resources - There are templates for issues and feature request so people can follow this template, which will make the workflow easier to manage. See .github repository for default files and community health files. Discussions are hosted from out the DogApparel mod since it is the first mod and I have set it up to apply to other future mods.</p>
+<p align= "center">👩‍💻 Useful resources - There are templates for issues and feature request so people can follow this template, which will make the workflow easier to manage. See .github repository for default files and community health files.</p>
 
-<p align= "center">🏡 Discussions - The source repository will host the discussions. All discussions on the source repository will be surfaced to the organization Discussions tab. Permissions from the repository will be applied to the organization Discussions. By default, all members of the organization will be able to create and comment on discussions. Members can now share updates or ask questions to the entire organization.</p>
-
-<details>
-  <summary align="center">GitHub Profile Summary Card Graph</summary>
-   <p align="center">📍GitHub Profile Summary Card Graph</p>
-    <div align="center">
-     <a href="https://github.com/Chunnyluny">
-      <img height="160em" alt="GitHub Summary Card Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chunnyluny&theme=radical&hide_border=false" />
-    </div>
- <br>
-    <div align="center">
-     <a href="https://github.com/Chunnyluny">
-      <img height="160em" alt="GitHub profile stats" src="https://github-readme-stats.vercel.app/api?username=Chunnyluny&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-     </div>
- <br>
-   <div align="center">
-  <a href="https://github.com/Chunnyluny">
-  <img height="160em" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Chunnyluny&theme=radical&date_format=j%20M%5B%20Y%5D" />
-     </div>
+<p align= "center">🏡 Discussions - Discussions are hosted via the DogApparel mod because it is my first RimWorld mod and it will be used as template for future mods.
+All discussions will be surfaced to the organization Discussions tab. By default, all members of the organization will be able to create and comment on discussions. Members can now share updates or ask questions to the entire organization. This will keep the discussions more on a centered spot.</p>
